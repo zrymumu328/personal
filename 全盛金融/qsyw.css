@@ -1,0 +1,250 @@
+html, body, div, span, iframe,
+		h1, h2, h3, h4, h5, h6, p, 
+		em, img,strong,var,b, i,
+		dl, dt, dd, ol, ul, li,
+		form, label,input,select,textarea, 
+		table, caption, tbody, tfoot, thead, tr, th, td
+		{
+		    margin:0;
+		    padding:0;
+		    border:0;
+		    outline:0;
+		    font-size:100%;
+		    background:transparent;
+		  
+		}
+		html , body {
+			height: 100%;
+			width: 100%;
+		}
+		ul , ol{
+		    list-style:none;
+		}
+		a{
+			color:#000;
+			text-decoration: none;
+		}
+		a img{
+			border:none;
+		}
+		.clear:after{
+			clear: both;content: "";display: block;
+		}
+.quan{
+	width: 1920px;
+	height: 2290px;
+}
+.top1{
+	overflow: hidden;
+	width: 1920px;
+	height: 140px;
+	background: url(image/xwy2.png);
+}
+.top1l{
+	width: 200px;
+	height: 50px;
+	background: url(image/logo.png) no-repeat;
+	margin-top: 50px;
+	margin-left: 270px;
+}
+.top1r{
+	width: 650px;
+	height: 40px;
+	margin-top: -44px;
+    margin-left: 880px;
+    font-size: 20px;
+}
+.top2{
+	height: 60px;
+	background: #787a7b;
+	line-height: 60px;
+	text-indent:310px;	
+}
+.top2 a{
+	color: #fff;
+}
+.top1r a{
+	border-bottom: 4px #666 solid;
+}
+.top1r a:hover{
+	color: #d0000e;
+	border-bottom: 4px #d0000e solid;
+}
+
+.bottom{
+	height: 167px;
+}
+.bottoml{
+	margin-top: 40px;
+	margin-left: 265px;
+}
+.bshb{
+	display: inline-block;
+	height: 50px;
+	width: 200px;
+	background: url(image/shb1.png) no-repeat;
+}
+.ss{
+	display: inline-block;
+	width: 7px;
+	height: 50px;
+	background: url(image/title_line_01.png) no-repeat;
+}
+.wen{
+	float: right;
+	margin-top: -35px;
+	text-align: right;
+	width: 500px;
+	height: 85px;
+
+}
+.erwie{
+	float: right;
+	margin-right: 65px;
+	margin-top: -45px;
+	width: 80px;
+	height: 80px;
+	background: url(image/erwei.png) no-repeat;
+}
+.top-1{
+	width: 1380px;
+	height: 390px;
+	margin: 30px auto;
+	position: relative;
+}
+.top-2{
+	width: 1380px;
+	height: 390px;
+	margin: 30px auto;
+	position: relative;
+}
+.imagee{
+	float: left;
+	width: 613px;
+	height: 377px;
+    background: url(image/yw1.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.i2{
+	float: right;
+	width: 613px;
+	height: 377px;
+    background: url(image/yw3.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.i3{
+	float: left;
+	width: 613px;
+	height: 377px;
+    background: url(image/yw2.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.i4{
+	float: right;
+	width: 613px;
+	height: 377px;
+    background: url(image/yw4.jpg) no-repeat;
+	background-size: 100% 100%;
+}
+.i5{
+	float: left;
+	width: 613px;
+	height: 377px;
+    background: url(image/syt7.png) no-repeat;
+	background-size: 100% 100%;
+}
+.text{
+	float: left;
+	width: 864px;
+	height: 255px;
+	background: #fff;
+	position: absolute;
+	left: 515px;
+    top: 122px;
+    color: #a1a1a1;
+}
+.text2{
+	float: left;
+	width: 864px;
+	height: 255px;
+	background: #fff;
+	position: absolute;
+	left: -21px;
+    top: 122px;
+    color: #a1a1a1;
+}
+.xtt{
+	float: left;
+	width: 310px;
+	height: 65px;
+	position: absolute;
+	left: 1069px;
+    top: 20px;
+}
+.xtt2{
+	float: left;
+	width: 310px;
+	height: 65px;
+	position: absolute;
+	left: 15px;
+    top: 20px;
+}
+.im{
+	float: left;
+	width: 40px;
+	height: 40px;
+}
+.i11{
+	background: url(image/xiao.png) -5px -3px no-repeat;
+}
+.i12{
+	background: url(image/xiao.png) -60px -3px;
+}
+.i13{
+	background: url(image/xiao.png) -115px -3px;
+}
+.i14{
+	font-size: 35px;
+	color: #fff;
+	width: 157px;
+	height: 40px;
+	background: url(image/xiao.png) 0 -237px;
+}
+.i21{
+	background: url(image/xiao.png) -6px -53px no-repeat;
+}
+.i22{
+	background: url(image/xiao.png) -60px -53px;
+}
+.i23{
+	background: url(image/xiao.png) -115px -53px;
+}
+.i24{
+	font-size: 35px;
+	color: #fff;
+	width: 157px;
+	height: 40px;
+	background: url(image/xiao.png) 0 -282px;
+}
+.dd3{
+	display: inline-block;
+	margin-left: 20px;
+	width: 80px;
+	height: 20px;
+	border:1px #666 solid;	
+	border-radius: 40px;
+	color: #666;
+}
+.text span,.text2 span{
+	font-size: 30px;
+}
+.p1{
+    width: 790px;
+    margin: 20px auto;
+}
+.p2{
+	width: 790px;
+    margin: 20px auto;
+}
+
+
